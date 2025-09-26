@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-google-genai
+google-genai
+PyPDF2
+python-docx
+reportlab
+numpy
+python-dotenv
